@@ -1,0 +1,22 @@
+body {
+  font-family: Palatino;
+  background-color: skyblue;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid darkblue;
+  text-align: left;
+  vertical-align: top;
+  width: 100%;
+  padding: 10px;
+  margin-top: 30px;
+  font-family: 'verdana';
+  /* column-width: 275px; */
+}
+
+th {
+  text-align: center;
+  vertical-align: middle;
+  background-color: #6DAFFE;
+}
